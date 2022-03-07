@@ -1,0 +1,15 @@
+div.styleBox{
+    background-color: red;
+}
+div.styleBox2{
+    background-color: yellow;
+}
+div.styleBox3{
+    background-color: green;
+}
+h1{
+    text-shadow: 2px 1px black;
+}
+a:hover {
+    background-color:rgb(25, 189, 189);
+}
